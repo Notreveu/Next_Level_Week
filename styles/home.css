@@ -29,7 +29,7 @@
 #page-home header a spam {
     margin-right: 16px;
     display: flex;
-    background-image: url("/assets/log-in.svg");
+    background-image: url("../assets/log-in.svg");
     width: 20px;
     height: 20px;
 }
