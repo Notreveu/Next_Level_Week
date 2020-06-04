@@ -1,0 +1,15 @@
+{
+    "name": "NLW",
+    "scripts": {
+        "start": "nodemon src/server.js"
+    },
+    "author": "Ueverton Passos",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nunjucks": "^3.2.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
